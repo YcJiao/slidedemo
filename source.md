@@ -1,13 +1,13 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 焦宇晨 (1700011723@pku.edu.cn)  
 
-主页: https://github.com/author
+主页: https://github.com/YcJiao
 
 ---
 
@@ -15,9 +15,9 @@ class: center, middle
 
 ### <font color="orangered">1. 第一部分</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 基本信息
+#### &nbsp; &nbsp; 1.2 学习编程
+#### &nbsp; &nbsp; 1.3 化学
 
 ### 2. 第二部分
 
@@ -26,6 +26,17 @@ class: center, middle
 ---
 
 ## 第一部分
+
+身高：190cm+
+
+体重：76kg
+
+特长：吉他 and 腿特长
+
+爱好：篮球（一只大菜鸡）
+
+
+---
 
 ```c
 int main()
@@ -36,12 +47,11 @@ int main()
 ```
 
 ---
-
 ## 插图
 
-** Ada Lovelace **
+** Biochemistry **
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+<img src="https://commons.wikimedia.org/wiki/Category:Biochemistry#/media/File:GLD2.jpg" width=300 style="margin: 0px 80px">
 
 ---
 
