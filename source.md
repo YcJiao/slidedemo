@@ -51,7 +51,7 @@ int main()
 
 ** Biochemistry **
 
-<img src="https://commons.wikimedia.org/wiki/Category:Biochemistry#/media/File:GLD2.jpg" width=300 style="margin: 0px 80px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/1a6d_large.png" width=300 style="margin: 0px 80px">
 
 ---
 
